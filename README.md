@@ -14,7 +14,9 @@ costs.
 
 
 How to build and run
-Apache Maven 3.x is needed to build and run the tests. To achieve this, launch the command line and run:
+Apache Maven 3.x is needed to build and run the tests. 
+
+Launch the command line and run:
 
 > mvn clean install
 After this, launch the application by typing:
